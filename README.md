@@ -76,6 +76,6 @@ Here are some key findings from the analysis:
 
 This analysis highlights key trends in music engagement across Spotify and YouTube, offering insights into how various musical features and content types may influence user interaction and performance on each platform. By examining factors such as energy, danceability, and acoustic richness, we can observe distinct audience preferences that may shape engagement levels. These findings provide a perspective on how musical elements might align with user behaviors across different streaming environments.
 
-If you found this project insightful, please consider giving the project a ⭐! Thank you for your support and interest. 🙏
+If you found this project helpful, please consider giving the project a ⭐! Thank you for your support and interest. 🙏
 
 ---
