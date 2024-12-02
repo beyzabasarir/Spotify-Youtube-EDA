@@ -1,4 +1,4 @@
-# Exploratory Data Analysis with YouTube & Spotify Dataset 📀🎼 
+# EDA with YouTube & Spotify Dataset 📀🎼 
 
 <p align="center">
   <img src="https://www.tunelf.com/wp-content/uploads/2020/06/add-spotify-music-to-video-1.jpg" alt="Spotify YouTube Data">
@@ -6,7 +6,7 @@
 
 ## Project Overview 📚
 
-This project explores a dataset that combines **Spotify** and **YouTube** data, providing insights into song attributes, artist info, and listener engagement across both platforms. Through this analysis, we aim to identify patterns in music popularity and audience preferences.
+This project explores a dataset that combines **Spotify** and **YouTube** data, providing insights into song attributes, artist info, and listener engagement across both platforms. Through this exploratory data analysis, we aim to identify patterns in music popularity and audience preferences.
 
 ---
 
